@@ -34,7 +34,7 @@ Este projeto é um sistema de gerenciamento escolar desenvolvido em **SQL**, que
 
 ---
 
-## 🛠️ **Estrutura do Banco de Dados**
+## **Estrutura do Banco de Dados**
 
 ### Tabelas Principais
 1. **PESSOAS**: Armazena informações básicas de pessoas (alunos, professores, etc.).
